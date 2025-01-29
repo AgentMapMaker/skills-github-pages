@@ -1,5 +1,5 @@
 ---
-title: Geological Mapping in QGIS 
+Geological Mapping in QGIS 
 ---
 
-[a link]([https://github.com/user/repo/blob/branch/other_file.md](https://media.heanet.ie/page/ba84d129166a44bb89b83b09063ebeca)
+[QGIS Exercise - Draw Geological Field Sheet Data - Polygons Part 3](https://media.heanet.ie/page/ba84d129166a44bb89b83b09063ebeca)
