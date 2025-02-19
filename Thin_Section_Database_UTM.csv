@@ -1,0 +1,66 @@
+Name,CRS,Sample_ID,X_COORD,Y_COORD,Location,County,Lithology,Formation,Structure,Fossil,Extra_no,X_ITM,Y_ITM,Year,LonDD,LatDD
+Thomas Fulton Gallagher,UTM,MGWG1,678379.000000000000000,5993759.000000000000000,Windy Gap,Louth,Microgranite,Microgranite,n/a,n/a,,712965.98,813820,2023,-6.2700,54.061100
+Kara Maya Gupta,UTM,KG23K02,511480.000000000000000,5715913.000000000000000,"Sheeps Cove, South-Ring",Cork,Sand lensed grey mudstone with quartz veins and chlorite,Kinsale Formation,"slaty cleavage, north dipping bedding",,pyrite possibly present,542198.12,538289,2023,-8.8300,51.594100
+Emma Marie Phelan,UTM,OH91,520759.434999999997672,5716395.197999999858439,Seven Heads Bay,Cork,Sandstone,Old Head Sandstone Formation,,,,551485.62,538645,2023,-8.7000,51.598200
+Jennifer Elaine Brett,UTM,JB23 TSS1,549732.000000000000000,5738543.000000000000000,Church Bay,Cork,Sandstone,Gyleen Formation,Bedding 087 48N,None,None,580765.22,560398,2023,-8.2700,51.795500
+Conor Davern,UTM,CD23FG01,660531.000000000000000,6247754.999999999068677,North Coast,Iona,Felsic gneiss,Lewisian Complex,Shows distinct foliation of mafic and felsic bands. Epidote veins are also present,N/A,N/A,698761.51,1068047,2023,-6.4000,56.347200
+Emer Ann Delargey,UTM,ED23MV01,462820.999999999941792,5926749.000000000000000,"Maam Valley, Connemara",Galway,Granite,,,,,496451.15,749842,2023,-9.5600,53.488300
+Philip Patrick Bourke,UTM,PB23GR01,669990.000000000116415,6240790.000000000000000,Ardnalanish,Mull,Granite,Ross of Mull granite,"Feldspar abundant, quartz, little biotite",,,708118.47,1060945,2023,-6.2500,56.281400
+Noah Brendan Kiely,UTM,NK23Ba,670016.000000000000000,6247050.999999999068677,"Ardtun, Bunessan, Isle of Mull, Scotland",Argyll and Bute,Basalt,Palaeogene Lavas,N/A,N/A,Pyroxene and olivine look to be present,708235.43,1067205,2023,-6.2400,56.337500
+Thomas Fulton Gallagher,UTM,GASF1,682313.999999999883585,5991937.000000000000000,Slieve Foye Summit,Louth,Gabbro,Unit 3,n/a,n/a,,716874.76,811943,2023,-6.2100,54.043300
+Kara Maya Gupta,UTM,KG23WS08,513508.999999999941792,5715904.000000000000000,Ballinglanna Bay Beach,Cork,brown-grey sandstone,White Strand Formation,jointing and lots of minor folding,,,544227.33,538253,2023,-8.8000,51.594000
+Emma Marie Phelan,UTM,OH94,520439.846000000019558,5715782.434000000357628,Seven Heads Bay,Cork,Sandstone,Old Head Sandston Formation,,,"Found further down coast than OH91 but still on same beach area. Slightly finer grained, within same formation.",551157.60,538036,2023,-8.7000,51.592700
+Jennifer Elaine Brett,UTM,JB23 TSS2,549732.000000000000000,5738543.000000000000000,Church Bay,Cork,Mudstone,Ballytrasna Formation,Cleavage 079 80N,None,None,580765.22,560398,2023,-8.2700,51.795500
+Conor Davern,UTM,CD23MG01,660531.000000000000000,6247754.999999999068677,North Coast,Iona,Mafic Gneiss,Lewisian Complex,Shows minor banding and epidote veins abundant,N/A,N/A,698761.51,1068047,2023,-6.4000,56.347200
+Emer Ann Delargey,UTM,ED23MV02,463120.999999999941792,5926842.000000000000000,"Maam Valley, Connemara",Galway,,,,,,496752.53,749931,2023,-9.5500,53.489200
+Philip Patrick Bourke,UTM,PB23MA01,673649.999999999883585,6241810.000000000000000,East of uisken,Mull,Mafic intrusion,Mafic fykeb,"Fine grained, no garnets visible",,,711792.92,1061912,2023,-6.1900,56.289200
+Noah Brendan Kiely,UTM,NK23RM1,668099.000000000000000,6246364.000000000000000,"North of Ardfenaig, Ross of Mull, Isle of Mull,Scotland",Argyll and Bute,"K Feldspar , Megacrystic granite","RM1 Granite , (ROMG) Ross of Mull Granite Formation",Biotite mica Foliation,N/A,,706308.63,1066546,2023,-6.2800,56.332100
+Thomas Fulton Gallagher,UTM,GALWG,678535.000000000000000,5993887.000000000000000,Long Woman's Grave,Louth,Gabbro,Unit 1,n/a,n/a,,713123.77,813946,2023,-6.2700,54.062200
+Kara Maya Gupta,UTM,KG23OH13,516363.000000000058208,5715009.000000000000000,Moloney's Strand South-West,Cork,Grey sandstone,Old Head Sandstone Formation,"Jointed, north dipping bedding",,,547069.55,537318,2023,-8.7600,51.585900
+Emma Marie Phelan,UTM,WS33,520922.021999999997206,5718923.730999998748302,Broadstrand Beach,Cork,Sandstone with some mud,White Strand Formation,,,,551682.83,541171,2023,-8.6900,51.620900
+Jennifer Elaine Brett,UTM,JB23 TSS3,549680.000000000000000,5738525.000000000000000,Church Bay,Cork,Mudstone,Ballytrasna Formation,None,None,None,580712.96,560381,2023,-8.2700,51.795300
+Conor Davern,UTM,CD23PG03,659161.000000000000000,6246738.000000000000000,East Coast,Iona,Metasedimentary Paragneiss with garnets,Lewisian Complex,"Banding of metasedimentary materials shown, with garnets",N/A,N/A,697376.84,1067050,2023,-6.4200,56.338500
+Emer Ann Delargey,UTM,ED23MV05,462744.000000000000000,5926607.999999999068677,"Maam Valley, Connemara",Galway,,,,,,496372.15,749702,2023,-9.5600,53.487100
+Philip Patrick Bourke,UTM,PB23BA01,669990.000000000116415,6240330.000000000000000,West of ardnalanish,Mull,Mafic intrusion basalt,Mafic dyke,"Fine grained, no garnets visible, pyroxene",,,708111.79,1060486,2023,-6.2500,56.277200
+Noah Brendan Kiely,UTM,NK23RM2,666590.000000000116415,6247273.000000000000000,"West of Camas Tuath, Ross of Mull, Isle of Mull, Scotland",Argyll and Bute,K Feldspar dominated pink granite,RM2 Granite (ROMG),N/A,N/A,,704812.98,1067477,2023,-6.3000,56.340700
+Thomas Fulton Gallagher,UTM,,,,,,,,,,,,,2023,,
+Kara Maya Gupta,UTM,KG23TH16,517112.000000000000000,5714863.000000000000000,Dunworley Beach North,Cork,Old red sandstone,Toe Head Formation,beach boulder,,,547816.67,537162,2023,-8.7500,51.584500
+Emma Marie Phelan,UTM,KF91,520841.713999999978114,5716482.099999999627471,Seven Heads Bay,Cork,Muddy sandstone,Kinsale Formation,,,Shortly down coast the lithology changes to Old Head Sandstone,551569.10,538730,2023,-8.6900,51.598900
+Jennifer Elaine Brett,UTM,JB23 TSS4,549679.000000000000000,5738504.000000000000000,Church Bay,Cork,Sandstone,Ballytrasna Formation,None,None,None,580711.68,560360,2023,-8.2700,51.795100
+Conor Davern,UTM,CD23MI01,660531.000000000000000,6247754.999999999068677,North Coast,Iona,Mafic dyke intrusion,Paleogene Basalts,"Fine-grained mafic intrusion, shows no banding or foliation",N/A,N/A,698761.51,1068047,2023,-6.4000,56.347200
+Emer Ann Delargey,UTM,EDMV03,462732.999999999941792,5926714.000000000000000,"Maam Valley, Connemara",Galway,Quartzite,,,,There are what appear to be sillimanite nodules with a common orientation in this sample and all appear to be elliptical in shape.,496362.64,749808,2023,-9.5600,53.488000
+Philip Patrick Bourke,UTM,PB23MA02,670120.000000000000000,6241130.000000000000000,"East of ardnalanish, moine",Mull,Garnet ambhibolite,Mafic dyke,"Garnets visible, hornblende",,,708253.39,1061284,2023,-6.2500,56.284400
+Noah Brendan Kiely,UTM,NK23PEL,668910.000000000116415,6244862.000000000000000,"Bendoran Lodge, Bunessan, Isle of Mull, Scotland",Argyll and Bute,Pelite/Semi Pelitic metamorphosed muddy sandstone,Moine Psammites and Pelites,Micaceous mineral alignment,N/A,N/A,707097.72,1065033,2023,-6.2600,56.318300
+Orla Baker,UTM,OB23MS01,505414.000000000000000,530885.000000000000000,"16",Cork,Mudstone w/ fossilized wood maybe,,,,,504774.31,527092,2023,-9.3700,51.488400
+Orla Baker,UTM,OB23SM02,474896.999999999941792,5708070.000000000000000,"21",Cork,Silty Mudstone,,,,,505500.66,530945,2023,-9.3600,51.523100
+Orla Baker,UTM,OB23MP03,474850.000000000000000,5708049.000000000000000,"23",Cork,Mudstone with Pyrite,,,,,505453.36,530925,2023,-9.3600,51.522900
+Orla Baker,UTM,OB23SM04,474850.000000000000000,5708049.000000000000000,"23",Cork,Slity Mudstone w/ pocket of red mudstone,,,,,505453.36,530925,2023,-9.3600,51.522900
+Denis Sisk,UTM,Volcanic tuff - Ballycotton head fm.,566234.000000000000000,5740897.000000000000000,Ballycotton headland,Cork,Igneous possibly,,,,,597300.93,562526,2024,-8.0300,51.814900
+Maire Caitlin Ni Urdail,UTM,"1",463174.000000000000000,5732957.000000000000000,Glengarriff Harbour,Cork,Green sandstone,,,,,494115.58,555998,2024,-9.5300,51.746300
+Cian Ryan,UTM,24CR341,462704.000000000000000,5926578.000000000000000,"Maam Valley, Connemara Co.Galway",Co.Galway,"Quartzite with ""sillimanite crystals""",,,,,496331.72,749673,2024,-9.5600,53.486800
+Kerrie Frances Treacy,UTM,HHP001,643347.000000000000000,5778679.000000000000000,"South of Patrick�s Bay, Hook Head",Wexford,Cross bedded dolostone,,,,,674934.04,599248,2024,-6.9000,52.140000
+Denis Sisk,UTM,Ballycotton head fm.,566301.000000000000000,5741101.000000000000000,Ballycotton headland,Cork,Mudstone predominantly,,,,,597370.74,562729,2024,-8.0300,51.816800
+Maire Caitlin Ni Urdail,UTM,"2",464367.000000000058208,5730893.000000000000000,Iskanafeelna,Cork,Purple Siltstone,,,,,495280.58,553918,2024,-9.5100,51.727800
+Cian Ryan,UTM,24CR80,463300.000000000000000,5926555.000000000000000,"Maam valley , Connemara Co.Galway",Co. Galway,Granite,,,,,496927.54,749641,2024,-9.5500,53.486600
+Kerrie Frances Treacy,UTM,HHP002,644892.000000000000000,5781148.000000000000000,"Sandeel Bay, Hook Head Penisula",Wexford,Red micaceous sandstone,,,,,676512.99,601695,2024,-6.8800,52.161700
+Denis Sisk,UTM,Ballytrasna fm.,565700.000000000000000,5741145.000000000000000,Ballyandreen,Cork,Mudstone/sandstone,,,,,596770.30,562782,2024,-8.0400,51.817200
+Maire Caitlin Ni Urdail,UTM,"3",465144.999999999941792,5730204.000000000000000,Ardnaturrish,Cork,Mudstone,,,,,496049.32,553218,2024,-9.5000,51.721600
+Cian Ryan,UTM,24CR199,463820.999999999941792,5926707.000000000000000,"Maam Valley , Connemara",Co.Galway,Schist,,,,,497450.80,749786,2024,-9.5400,53.488000
+Kerrie Frances Treacy,UTM,HHP003,644556.000000000000000,5780566.000000000000000,"Woarway Bay, Hook Head",Wexford,Sandstone with possible laminated muds,,,,,676168.98,601118,2024,-6.8800,52.156600
+Cian Ryan,UTM,24CR111,463695.000000000058208,5927022.000000000000000,"Maam Valley , Connemara",Co.Galway,Migmatised Pelite beds,,,,,497329.19,750103,2024,-9.5400,53.490900
+Kerrie Frances Treacy,UTM,HHP004,641502.000000000116415,5777712.000000000931323,Hook Head,Wexford,Fossiliferous limestone,,,,,673075.82,598306,2024,-6.9300,52.131700
+Lorc�n McGovern,UTM,LMcG24WB001,584899.000000000000000,5756047.000000000000000,Whiting Bay,Waterford,Sandstone Conglomerate,Whiting Bay Sandstone Formation,,,,,,2024,-7.7600,51.948600
+kate murray,UTM,24km001,465272.999999999941792,5918557.000000000000000,Glentrasna,Galway,Dalradian metasediments,,,,,,,2024,-9.5200,53.414900
+daniel o sullivan,UTM,24DOS001,466360.999999999941792,5917467.000000000000000,Glentrasna,galway,quartz diorite (possible altered?),quartz diorite,,,,,,2024,-9.5000,53.405200
+Katelyn Hosford,UTM,"4",576575.000000000000000,6122675.000000000000000,Melmore Head,Donegal,Metadolerite,,,,,,,2024,-7.7900,55.244600
+Lorc�n McGovern,UTM,LMcG24WB002,584878.000000000000000,5755749.000000000000000,Whiting Bay,Waterford,Yellow-grey sandstone,Whiting Bay Sandstone formation,,,,,,2024,-7.7600,51.945900
+kate murray,UTM,24km002,466016.999999999941792,5918314.000000000000000,Glentrasna,Galway,dalraidian metasediments,,,,,,,2024,-9.5100,53.412700
+daniel o sullivan,UTM,24DOS002,466596.000000000000000,5918090.000000000000000,glentrasna,galway,dalradian,,,,,,,2024,-9.5000,53.410800
+Katelyn Hosford,UTM,"5",576082.000000000000000,6122456.000000000000000,Melmore Head,Donegal,Unknown,,,,,,,2024,-7.8000,55.242700
+Lorc�n McGovern,UTM,LMcG24AB01,588065.000000000000000,5756245.000000000931323,Ardmore beach,Waterford,Grey Mudstone,Ardmore Mudstone Formation,,,,,,2024,-7.7100,51.949900
+kate murray,UTM,24km003,465462.000000000000000,5917891.000000000000000,glentrasna,Galway,granite,,,,,,,2024,-9.5100,53.408900
+daniel o sullivan,UTM,24DOS003,467135.000000000058208,5917784.000000000000000,glentrasna,galway,dalradian,,,,,,,2024,-9.4900,53.408100
+Katelyn Hosford,UTM,"6",575977.000000000000000,6122622.000000000000000,Melmore Head,Donegal,Granite,Melmore Granite,,,,,,2024,-7.8000,55.244200
+Lorc�n McGovern,UTM,LMcG24WB003,582914.000000000000000,5755995.000000000000000,Ballysallagh Bay,Waterford,Purple sandstone,Ballysallagh Bay Sandstone Formation,,,,,,2024,-7.7900,51.948400
+kate murray,UTM,24km004,466116.999999999941792,5918158.000000000000000,glentrasna,Galway,dalraidian metasediments,,,,,,,2024,-9.5000,53.411400
+daniel o sullivan,UTM,24DOS004,465926.000000000000000,5915875.000000000000000,glentrasna,galway,granite,,,,,,,2024,-9.5100,53.390800
