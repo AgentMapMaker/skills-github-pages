@@ -1,4 +1,4 @@
-Name_Student,Sample_ID,Geo_Loc,Lithology,Year,Lon_DD,Lat_DD
+Name_Student,Sample_ID,Geo_Loc,Lithology,Year,Long,Lat
 Thomas Fulton Gallagher,MGWG1,Windy Gap,Microgranite,2023,-6.274401,54.061127
 Kara Maya Gupta,KG23K02,"Sheeps Cove, South-Ring",Sand lensed grey mudstone with quartz veins and chlorite,2023,-8.83427,51.59415
 Emma Marie Phelan,OH91,Seven Heads Bay,Sandstone,2023,-8.700282,51.59822
